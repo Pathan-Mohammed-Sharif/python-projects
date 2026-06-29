@@ -1,5 +1,3 @@
-# python-projects
-python projects 
 xl-automation
 email-automation
 chat application(server,client)
